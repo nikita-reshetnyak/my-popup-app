@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.App {
+  position: relative;
+  background: linear-gradient(255.35deg, #dc3131 0.83%, rgba(255, 79, 79, 0) 108.93%), #ff5e56;
+  width: 100vw;
+  height: 100vh;
+  font-family: "LabG-regular", sans-serif;
+  font-size: 14px;
+}
+.btn-wrapper {
+  left: 50%;
+  transform: translateX(-50%);
+  top: 50%;
+  position: fixed;
+}
+.btn-open-popup {
+  width: 198px;
+  padding: 16px 0px;
+  cursor: pointer;
+  background-color: transparent;
+  border: 1px solid #fff;
+  border-radius: 6px;
+  filter: drop-shadow(0px 0px 44px #cfdae7);
+  font-family: "LabG-regular", sans-serif;
+  color: #fff;
+  font-size: 16px;
+}
