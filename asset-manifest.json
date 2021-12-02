@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-popup-app/static/css/main.7c873493.chunk.css",
+    "main.js": "/my-popup-app/static/js/main.93ab6862.chunk.js",
+    "main.js.map": "/my-popup-app/static/js/main.93ab6862.chunk.js.map",
+    "runtime-main.js": "/my-popup-app/static/js/runtime-main.03219efa.js",
+    "runtime-main.js.map": "/my-popup-app/static/js/runtime-main.03219efa.js.map",
+    "static/js/2.325c7c0d.chunk.js": "/my-popup-app/static/js/2.325c7c0d.chunk.js",
+    "static/js/2.325c7c0d.chunk.js.map": "/my-popup-app/static/js/2.325c7c0d.chunk.js.map",
+    "static/js/3.cc00778b.chunk.js": "/my-popup-app/static/js/3.cc00778b.chunk.js",
+    "static/js/3.cc00778b.chunk.js.map": "/my-popup-app/static/js/3.cc00778b.chunk.js.map",
+    "index.html": "/my-popup-app/index.html",
+    "static/css/main.7c873493.chunk.css.map": "/my-popup-app/static/css/main.7c873493.chunk.css.map",
+    "static/js/2.325c7c0d.chunk.js.LICENSE.txt": "/my-popup-app/static/js/2.325c7c0d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/my-popup-app/static/media/LabGrotesque-Regular.6e75ff9a.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03219efa.js",
+    "static/js/2.325c7c0d.chunk.js",
+    "static/css/main.7c873493.chunk.css",
+    "static/js/main.93ab6862.chunk.js"
+  ]
+}
